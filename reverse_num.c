@@ -8,9 +8,10 @@ void main(){
     scanf("%d",&n);
 
 //core
+
     i = 0;
     while (i != n){
-    printf("%d ",n);
-    n--;
+        printf("%d ",n);
+        n--;
     }   
 }
